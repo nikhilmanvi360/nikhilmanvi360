@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI Attendence tracker**
+- 🔭 I’m currently working on **HANDAY OS**
 
-- 🌱 I’m currently learning **Bug bounty & red teaming**
+- 🌱 I’m currently learning **Bug bounty & red teaming & everything ig**
 
-- 👨‍💻 All of my projects are available at [hi](hi)
+- 👨‍💻 All of my projects are available at here
 
 - 📫 How to reach me **nikhilmanvi360@gmail.com**
 
-- 📄 Know about my experiences [hi](hi)
+- 📄 Know about my experiences = talk to me then cus 
 
 - ⚡ Fun fact **I hate life**
 
